@@ -1,1 +1,1 @@
-form google.colab import drive
+from google.colab import drive
